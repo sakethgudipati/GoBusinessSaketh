@@ -1,0 +1,19 @@
+.referral-info {
+  border: dashed;
+  border-width: 2px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 20px;
+  margin: 60px;
+}
+.referral-head {
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.referral-value {
+  color: #4776e6;
+  font-family: 'Roboto';
+  font-weight: 500;
+}

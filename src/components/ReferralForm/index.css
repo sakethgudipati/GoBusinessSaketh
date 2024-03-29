@@ -1,0 +1,49 @@
+.referral-form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.input-link-element {
+  width: 650px;
+  padding: 10px;
+  border-radius: 50px;
+}
+.input-code-element {
+  width: 200px;
+  padding: 10px;
+  border-radius: 50px;
+}
+.copy-button {
+  background-image: linear-gradient(to Left, #4776e6, #8e54e9);
+  width: 101px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding: 5px;
+  padding-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  color: white;
+  margin-left: 20px;
+  cursor: pointer;
+  border-width: 0px;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+}
+.referral-head {
+  font-family: 'Roboto';
+  font-size: 23px;
+}
+.copy-icon {
+  height: 15px;
+  width: 15px;
+  margin-right: 10px;
+}

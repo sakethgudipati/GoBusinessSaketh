@@ -1,0 +1,86 @@
+.search-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.search-head {
+  opacity: 0px;
+  font-family: 'Roboto';
+  font-size: 34px;
+  font-weight: 600;
+}
+.search {
+  display: flex;
+  flex-direction: row;
+  background-color: #f1f1f1;
+  padding: 10px;
+  width: 310px;
+  border-radius: 10px;
+  height: 60px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.search-input {
+  background-color: transparent;
+  font-size: 20px;
+  border-width: 0px;
+  margin-left: 10px;
+  outline: none;
+}
+.search-icon {
+  height: 25px;
+  width: 25px;
+  margin-top: 4px;
+}
+.search-button {
+  width: 174.57px;
+  height: 55.56px;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  border-width: 0px;
+  font-weight: 600;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.notification-image {
+  width: 42.56px;
+  height: 48.49px;
+  top: -1096.54px;
+  left: 419.78px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+  margin-left: 35px;
+  margin-top: 14px;
+}
+.profile-img {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+}
+.name {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 20px;
+}
+.admin {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #c3c2c2;
+  margin-left: 20px;
+}
+.profile-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 30px;
+}
+.down-icon {
+  height: 15px;
+  width: 15px;
+  margin-left: 20px;
+  margin-top: 15px;
+}
